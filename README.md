@@ -1,6 +1,7 @@
+<div align="center">
+
 # Dmitriy (@dizro) 👋
 
-<div align="center">
   <h3>Full Stack Developer & Entrepreneur</h3>
   <h4>Passionate about AI and innovative web solutions</h4>
   <h4>Computer Science Student at Tomsk Polytechnic University</h4>
