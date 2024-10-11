@@ -1,40 +1,47 @@
 <div align="center">
-
-# Dmitriy (@dizro) 👋
-
-  <h3>Full Stack Developer & Entrepreneur</h3>
-  <h4>Passionate about AI and innovative web solutions</h4>
-  <h4>Computer Science Student at Tomsk Polytechnic University</h4>
   
-  ![Profile views](https://komarev.com/ghpvc/?username=Dizro&label=Profile%20views&color=0e75b6&style=flat)
-  
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dizro&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+# Dmitriy (@dizro) 👨‍💻
+
+### Full Stack Developer & Entrepreneur
+#### Passionate about AI and innovative web solutions
+#### Computer Science Student at Tomsk Polytechnic University
+
+![Profile views](https://komarev.com/ghpvc/?username=Dizro&label=Profile%20views&color=0e75b6&style=flat)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dizro&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
-- [@echo_gram_bot](https://t.me/echo_gram_bot): AI-powered Telegram post creation bot
-- [@nvkvdbot](https://t.me/nvkvdbot): Automated appointment system for Nizhnevartovsk KVD
+- [**@echo_gram_bot**](https://t.me/echo_gram_bot): AI-powered Telegram post creation bot
+- [**@nvkvdbot**](https://t.me/nvkvdbot): Automated appointment system for Nizhnevartovsk KVD
 
-## 🌱 Continuous Learning
+## 📚 Continuous Learning
 
-I'm constantly improving my skills through various [learning projects](https://github.com/Dizro).
+I'm constantly expanding my knowledge and skills through various [learning projects](https://github.com/Dizro).
 
-## 📝 Writing
+## ✍️ Writing
 
-I regularly share insights on my [Telegram blog](https://t.me/dizroblog).
+I regularly share insights and tech tips on my [Telegram blog](https://t.me/dizroblog).
 
 ## 💼 Professional Experience
 
-- Freelance Full Stack Developer (2022 - Present)
-- Top 5% contributor on Stack Overflow in Python and Telegram bot topics
+- 💻 Freelance Full Stack Developer (2022 - Present)
+- 🏆 Top 5% contributor on Stack Overflow in Python and Telegram bot topics
 
 ## 📫 Get in Touch
 
-- [Telegram](https://t.me/thedizro)
-- Email: dizrocontact@gmail.com
+<div align="center">
 
-## 🛠️ Languages and Tools
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedizro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dizrocontact@gmail.com)
+
+</div>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -48,14 +55,16 @@ I regularly share insights on my [Telegram blog](https://t.me/dizroblog).
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizro&layout=compact&theme=nord" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizro&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dizro&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dizro&theme=nord&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dizro&show_icons=true&theme=nord" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dizro&theme=nord" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+### 💡 "The only way to do great work is to love what you do." - Steve Jobs
+  
+</div>
