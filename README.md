@@ -31,5 +31,3 @@ I focus on **business impact over just code** — every solution is designed to 
 		<img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views"/>
 	</a>
 </div>
-
-*Ready to turn your ideas into working products. Let's discuss your project!*
