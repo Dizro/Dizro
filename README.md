@@ -1,33 +1,19 @@
-# Hi, I'm Dmitriy 👋
+### Hi, I'm Dmitriy 👋
 
-**Fullstack Developer** specializing in end-to-end digital solutions and business automation.
+**Full-Stack Developer | Building & Automating Digital Solutions**
 
-I build web applications, automate workflows, and create user-centered designs that drive business growth. From concept to production — I handle the full development cycle.
+I engineer scalable web applications and automate complex business workflows. My focus is on delivering clean, high-impact code that solves real-world problems.
 
-## 🚀 What I Do
+**Core Skills:**
+- **Backend:** FastAPI, Node.js, PostgreSQL, MongoDB, REST APIs
+- **Frontend:** Vue.js, Next.js, TypeScript, Responsive UI
+- **Automation:** Telegram Bots, API Integrations, n8n
+- **Tools:** Docker, CI/CD, Figma, Git
 
-- **Web Applications**: CRM systems, user dashboards, SaaS platforms
-- **Process Automation**: Telegram bots, API integrations, workflow optimization
-- **UX/UI Design**: User-centered interfaces in Figma with responsive implementation
-- **Full-Stack Development**: From backend architecture to frontend user experience
-
-## 🛠 Tech Stack
-
-**Frontend:** Vue.js, Next.js, TypeScript, Responsive Design  
-**Backend:** FastAPI, Node.js, REST API Development  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Automation:** Telegram Bot API, n8n, Third-party integrations  
-**Design:** Figma, UI/UX Prototyping  
-**DevOps:** Docker, CI/CD, Cloud Deployment  
-
-## 📈 Approach
-
-I focus on **business impact over just code** — every solution is designed to solve real problems and scale with your needs. Clear communication, predictable timelines, and ongoing support are core to my process.
+Let's build something impactful together.
 
 ---
 
 <div align="center">
-	<a href="https://github.com/Dizro/github-profile-views-counter" target="_blank">
-		<img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views"/>
-	</a>
+  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views"/>
 </div>
