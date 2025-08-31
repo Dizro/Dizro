@@ -1,19 +1,16 @@
-### Hi, I'm Dmitriy 👋
+## Dmitriy
 
-**Full-Stack Developer | Building & Automating Digital Solutions**
+**Building production-grade systems that scale.**
 
-I engineer scalable web applications and automate complex business workflows. My focus is on delivering clean, high-impact code that solves real-world problems.
+Full-stack engineer specializing in high-performance web applications and workflow automation.
 
-**Core Skills:**
-- **Backend:** FastAPI, Node.js, PostgreSQL, MongoDB, REST APIs
-- **Frontend:** Vue.js, Next.js, TypeScript, Responsive UI
-- **Automation:** Telegram Bots, API Integrations, n8n
-- **Tools:** Docker, CI/CD, Figma, Git
+**Stack:** FastAPI • Node.js • Vue.js • Next.js • PostgreSQL • Docker • CI/CD
 
-Let's build something impactful together.
+**Focus:** Clean architecture. Rapid iteration. Business impact.
+
+[Let's connect →](mailto:your.email@example.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views
