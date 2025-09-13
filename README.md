@@ -8,7 +8,7 @@ Full-stack engineer specializing in high-performance web applications and workfl
 
 **Focus:** Clean architecture. Rapid iteration. Business impact.
 
-[Let's connect →](mailto:your.email@example.com)
+[Let's connect →](dizrocontact@gmail.com)
 
 ---
 
