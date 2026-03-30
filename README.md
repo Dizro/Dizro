@@ -1,16 +1,22 @@
-## Dmitriy
+# Дмитрий Дубина | Systems Analyst & Backend Engineer
 
-**Building production-grade systems that scale.**
+**Проектирование и разработка production-ready систем.**
 
-Full-stack engineer specializing in high-performance web applications and workflow automation.
+Специализируюсь на автоматизации сложных бизнес-процессов, проектировании архитектуры баз данных и разработке отказоустойчивых REST API. Перевожу бизнес-требования в строгие технические контракты.
 
-**Stack:** FastAPI • Node.js • Vue.js • Next.js • PostgreSQL • Docker • CI/CD
+**Ключевая экспертиза:**
+* **Системный анализ:** Сбор и формализация требований, Use Cases, BPMN, UML, ER-диаграммы.
+* **Архитектура & API:** Проектирование REST API, спецификации OpenAPI (Swagger), микросервисный подход.
+* **Базы данных:** PostgreSQL (ACID-транзакции, блокировки, RLS, оптимизация запросов), проектирование реляционных схем.
+* **Технический стек:** Python (FastAPI), Node.js, React / Vue.js, TypeScript.
+* **Инфраструктура:** Docker, CI/CD, Linux.
 
-**Focus:** Clean architecture. Rapid iteration. Business impact.
+**Фокус:** Чистая архитектура. Целостность данных. Решение задач бизнеса.
 
-[Let's connect →](dizrocontact@gmail.com)
+📫 [Связаться в Telegram](https://t.me/thedizro) • [dizrocontact@gmail.com](mailto:dizrocontact@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge" alt="Profile Views
+  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge&color=blue" alt="Profile Views">
+</div>
