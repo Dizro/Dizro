@@ -1,6 +1,5 @@
 # Дмитрий Дубина
-
-**Systems Analyst & Backend Engineer**
+**Системный аналитик и Backend-разработчик**
 
 Студент 3 курса Томского политехнического университета (профиль «Бизнес-анализ и разработка ИС»). Специализируюсь на системном анализе, проектировании реляционных баз данных и разработке API-контрактов. Умею переводить бизнес-требования в техническую документацию и реализовывать логику на бэкенде.
 
@@ -11,10 +10,11 @@
 * **Разработка:** Python (FastAPI), Node.js, React, TypeScript.
 * **Инструменты:** Docker, Git, Jira, Figma, Яндекс DataLens.
 
-📫 **Связь со мной:** [Telegram](https://t.me/thedizro) • [dizrocontact@gmail.com](mailto:dizrocontact@gmail.com)
-
 ---
 
+**Контакты для связи:** [Telegram](https://t.me/thedizro) • [dizrocontact@gmail.com](mailto:dizrocontact@gmail.com)
+
+<br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dizro&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dizro&style=flat-square&color=4169E1" alt="Просмотры профиля" />
 </div>
